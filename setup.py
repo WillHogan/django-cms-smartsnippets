@@ -11,13 +11,13 @@ dependencies = [
 ]
 
 dependency_links = [
-    'http://github.com/pbs/django-admin-extend/tarball/master#egg=django-admin-extend-0.0.1',
+    'http://github.com/pbs/django-admin-extend/tarball/master#egg=django-admin-extend-dev',
 ]
 
 
 setup(
     name='django-cms-smartsnippets',
-    version='0.2.0',
+    version='0.4.0',
     description='Parametrizable Django CMS snippets.',
     long_description = open(README_PATH, 'r').read(),
     author='Sever Banesiu',
